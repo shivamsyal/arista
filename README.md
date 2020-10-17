@@ -1,2 +1,2 @@
-# arista
+# Arista
 AI Powered Personalized Education
